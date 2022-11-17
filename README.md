@@ -1,7 +1,7 @@
 
 # Random Forest Algo | Build from Scratch
 
-This is an Implementation of Random Forest Algorithm that has been built from the Scratch, Here You Can see the each and every Function and Implementation, and also tested with the Breast Cancer Dataset
+This is the implmentation of Random forest algorithm from scratch, which i copied from internet, 
 
 
 ## Acknowledgements
