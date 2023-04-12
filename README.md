@@ -1,7 +1,7 @@
 
 # Random Forest Algo | Build from Scratch
 
-This is the implmentation of Random forest algorithm from scratch, which i copied from internet, 
+This is the implmentation of Random forest algorithm from scratch, did this while learning Random forest also inspired form a blog from internet.
 
 
 ## Acknowledgements
